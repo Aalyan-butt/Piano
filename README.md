@@ -1,4 +1,5 @@
-This is a piano website using html,css and javascript
+This is a piano website using html,css and javascript <br>
+It is fully functional with sound. Hope you enjoy it <br>
 Author -- Aalyan Butt <br>
 
 
